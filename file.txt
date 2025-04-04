@@ -1,1 +1,5 @@
-Conflict line: change from master
+<<<<<<< HEAD
+Conflict line: change from merge-fix
+=======
+Conflict line: change from merge-fix
+>>>>>>> new-branch
